@@ -1,2 +1,2 @@
 # DSA-Practice
-A repo to keep track of my daily dsa practice problems practiced on leetcode.
+A repo to keep track of my daily leetcode practice problems.
